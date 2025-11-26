@@ -1,0 +1,9 @@
+{
+  "name": "Sternenanhänger Weihnachtswunschbaum",
+  "short_name": "Wunschbaum",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#e0e1dd",
+  "theme_color": "#0d1b2a",
+  "icons": []
+}
